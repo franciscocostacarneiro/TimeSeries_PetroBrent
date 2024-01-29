@@ -1,5 +1,3 @@
-# Tech Challenge 4
-
 ## Guia de Instalação e Execução
 
 #### 1. Coleta do projeto
