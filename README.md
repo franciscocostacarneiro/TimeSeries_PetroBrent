@@ -5,10 +5,10 @@ Será necessário adiquirir os arquivos, para isso, basta baixar o projeto como 
 
 
 #### 2. Configuração do ambiente
-Em seguida, será necessário configurar o ambiente de execução. Nesse exemplo será usado PyCharm, mas o processo 
+Em seguida, será necessário configurar o ambiente de execução. Nesse exemplo será usado VS Code, mas o processo 
 também pode ser feito em outro interpretador Python.
 
-Após executar o PyCharm, abra um novo projeto e selecione o projeto baixado no "Passo 1". Ao abrir o repositório, será
+Após executar o VSCode, abra um novo projeto e selecione o projeto baixado no "Passo 1". Ao abrir o repositório, será
 necessario definir o interpretador python que será utilizado nesse projeto para que possa ser executado de forma correta.
 
 No canto inferior direito, clique na aba onde definimos o interpretador do projeto.
